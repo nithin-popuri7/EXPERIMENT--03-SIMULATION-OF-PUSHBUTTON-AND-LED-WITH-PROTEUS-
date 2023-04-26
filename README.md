@@ -75,6 +75,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 Developed By:P.Siva Naga Nithin
 Reg.No:212221240037
 ```
+```
 /* USER CODE BEGIN Header */
 /**
   **************************
@@ -304,6 +305,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+```
 
 
 
@@ -319,7 +321,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-![github.logo](pmc2.png)
+![github.logo](pmc2.jpeg)
 
  
  
